@@ -15,7 +15,7 @@
 - **Example**: Streaming a live video conference where the video stream is sent only to registered participants, rather than all devices on the network.
 
 #### Text-Based Visualization for Gateways, Broadcast, and Multicast
-\```
+```
 Gateway: [Your Network] --> [Gateway/Router] --> [Internet]
          'Example: A home router directs traffic between local devices and the internet.'
 
@@ -24,7 +24,7 @@ Broadcast: [Broadcast Message] --> [All Devices]
 
 Multicast: [Multicast Message] --> [Subscribed Devices]
            'Example: A webinar broadcasted only to pre-registered viewers.'
-\```
+```
 
 ## 7.2 DHCP (Dynamic Host Configuration Protocol)
 ### Purpose and Process
